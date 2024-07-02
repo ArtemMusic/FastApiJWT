@@ -1,0 +1,3 @@
+https://hub.docker.com/_/postgres
+
+docker run --name fastapijwt -e POSTGRES_PASSWORD=12345 -d postgres
